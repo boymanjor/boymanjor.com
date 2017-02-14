@@ -27,8 +27,11 @@
 }
 
 div.hdr {
+  display: flex;
+  align-items: center;
   position: relative;
   height: 105px;
+  margin: 0 0 2.5em;
 }
 
 .hdr img {
@@ -36,22 +39,14 @@ div.hdr {
   top: 0;
   right: 0;
   bottom: 0;
-  float: left;
   max-height: 100%;
 }
 
 .hdr h1 {
-  font-family: 'Domaine Display';
-  top: 50%;
   margin: 0;
-  float: left;
-  display: inline-block;
-  width: 70%;
+  flex-grow: 100;
+  font-family: 'Domaine Display';
   text-align: center;
-  position: relative;
-  -ms-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 
 #main-nav {
