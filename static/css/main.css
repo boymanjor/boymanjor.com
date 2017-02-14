@@ -32,6 +32,7 @@ div.hdr {
   position: relative;
   height: 105px;
   margin: 0 0 2.5em;
+  color: rgba(210, 44, 59, 0.8);
 }
 
 .hdr img {
@@ -40,6 +41,11 @@ div.hdr {
   right: 0;
   bottom: 0;
   max-height: 100%;
+  border-color: rgba(210, 44, 59, 0.7);
+  border-style: solid;
+  border-radius: 4rem;
+  border-width: 0.15em;
+  padding: 0.25em;
 }
 
 .hdr h1 {
@@ -47,6 +53,12 @@ div.hdr {
   flex-grow: 100;
   font-family: 'Domaine Display';
   text-align: center;
+}
+
+.fake-href {
+  color: rgba(210, 44, 59, 0.8);
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
 }
 
 #main-nav {
