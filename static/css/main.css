@@ -1,25 +1,25 @@
 @font-face {
   font-family: 'Calibre';
-  src: url("../fonts/CalibreWeb-Regular.eot");
-  src: url("../fonts/CalibreWeb-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/CalibreWeb-Regular.woff2") format("woff2"), url("../fonts/CalibreWeb-Regular.woff") format("woff"); font-weight: 400; font-style: normal;
+  src: url("../font/CalibreWeb-Regular.eot");
+  src: url("../font/CalibreWeb-Regular.eot?#iefix") format("embedded-opentype"), url("../font/CalibreWeb-Regular.woff2") format("woff2"), url("../font/CalibreWeb-Regular.woff") format("woff"); font-weight: 400; font-style: normal;
 }
 
 @font-face {
   font-family: 'Calibre';
-  src: url("../fonts/CalibreWeb-Medium.eot");
-  src: url("../fonts/CalibreWeb-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/CalibreWeb-Medium.woff2") format("woff2"), url("../fonts/CalibreWeb-Medium.woff") format("woff"); font-weight: 500; font-style: normal;
+  src: url("../font/CalibreWeb-Medium.eot");
+  src: url("../font/CalibreWeb-Medium.eot?#iefix") format("embedded-opentype"), url("../font/CalibreWeb-Medium.woff2") format("woff2"), url("../font/CalibreWeb-Medium.woff") format("woff"); font-weight: 500; font-style: normal;
 }
 
 @font-face {
   font-family: 'Domaine Display';
-  src: url("../fonts/domainedisplay-regular.eot");
-  src: url("../fonts/domainedisplay-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/domainedisplay-regular.woff2") format("woff2"), url("../fonts/domainedisplay-regular.woff") format("woff"); font-weight: 500; font-style: normal;
+  src: url("../font/domainedisplay-regular.eot");
+  src: url("../font/domainedisplay-regular.eot?#iefix") format("embedded-opentype"), url("../font/domainedisplay-regular.woff2") format("woff2"), url("../font/domainedisplay-regular.woff") format("woff"); font-weight: 500; font-style: normal;
 }
 
 @font-face {
   font-family: 'Domaine Display';
-  src: url("../fonts/domainedisplay-medium.eot");
-  src: url("../fonts/domainedisplay-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/domainedisplay-medium.woff2") format("woff2"), url("../fonts/domainedisplay-medium.woff") format("woff"); font-weight: 500; font-style: normal;
+  src: url("../font/domainedisplay-medium.eot");
+  src: url("../font/domainedisplay-medium.eot?#iefix") format("embedded-opentype"), url("../font/domainedisplay-medium.woff2") format("woff2"), url("../font/domainedisplay-medium.woff") format("woff"); font-weight: 500; font-style: normal;
 }
 
 * {
