@@ -27,31 +27,27 @@
 }
 
 div.hdr {
-  display: flex;
   align-items: center;
-  position: relative;
-  height: 105px;
+  background-color: rgba(210, 44, 59, 0.8);
+  color: white;
+  display: flex;
+  height: 130px;
   margin: 0 0 2.5em;
-  color: rgba(210, 44, 59, 0.8);
+  padding: 0.75em;
 }
 
 .hdr img {
-  left: 0;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  max-height: 100%;
-  border-color: rgba(210, 44, 59, 0.7);
+  border-color: white;
   border-style: solid;
   border-radius: 4rem;
-  border-width: 0.15em;
-  padding: 0.25em;
+  border-width: 0.25em;
+  max-height: 100%;
 }
 
 .hdr h1 {
-  margin: 0;
   flex-grow: 100;
   font-family: 'Domaine Display';
+  margin: 0;
   text-align: center;
 }
 
@@ -59,18 +55,6 @@ div.hdr {
   color: rgba(210, 44, 59, 0.8);
   font-size: 0.85em;
   letter-spacing: 0.08em;
-}
-
-#main-nav {
-  list-style: none;
-  display: inline-block;
-  float: right;
-  margin: 0;
-  padding: 0;
-}
-
-#main-nav li {
-  float: right;
 }
 
 a {
